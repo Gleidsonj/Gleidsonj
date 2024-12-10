@@ -17,8 +17,8 @@
 🌱 Atualmente, estou me aprofundando em **JavaScript** e estudando o **DOM** para criar aplicações web mais dinâmicas e interativas.
 
 📫 **Contato:** Se quiser me conhecer melhor ou colaborar em projetos, fique à vontade para me procurar!
-- **Email:** [seuemail@exemplo.com](gleidsonlimacrf@gmail.com)
-- **LinkedIn:** [linkedin.com/in/seulinkedin](https://www.linkedin.com/in/gleidsonsant/)
+- **Email:** (gleidsonlimacrf@gmail.com)
+- **LinkedIn:** (https://www.linkedin.com/in/gleidsonsant/)
 
 ---
 
