@@ -5,7 +5,7 @@
 💻 Tenho experiência e conhecimento nas seguintes tecnologias:
 - **HTML** e **CSS** (incluindo design responsivo e flexbox)
 - **JavaScript** (manipulação de DOM, funções e arrays)
-- **SQL** e **MySQL** (banco de dados)
+- **React** 
 - Versionamento de código com **Git** e **GitHub**
 
 🚀 Sou bastante esforçado e persistente, sempre buscando me desenvolver e aprender novas tecnologias para entregar soluções eficientes e criativas.
