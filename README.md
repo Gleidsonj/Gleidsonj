@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Gleidson Lima!
 
-🎓 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas**, iniciando minha jornada no curso em setembro de 2024. Tenho 22 anos e sou apaixonado por tecnologia e desenvolvimento web.
+🎓 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas**, iniciando minha jornada no curso em setembro de 2024. Tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento web.
 
 💻 Tenho experiência e conhecimento nas seguintes tecnologias:
 
@@ -21,4 +21,4 @@
 
 ---
 
- "Esforço e persistência são os combustíveis do sucesso!" 
+🌟 "Esforço e persistência são os combustíveis do sucesso!" 🌟
