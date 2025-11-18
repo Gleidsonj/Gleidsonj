@@ -73,4 +73,4 @@ Meu objetivo é unir **React + TypeScript** no front com **Node.js + SQL** no ba
 ## 📬 Contato
 
 📧 **gleidsonlimalr@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/gleidson-lima-7bb55b32a**
+🔗 LinkedIn: **https://www.linkedin.com/in/gleidsonsant/**
