@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Gleidson Lima
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em **Front-End**.  
-Atualmente estudando **SQL / MySQL**, **TypeScript** e **React**.
+Front-End Developer em evolução para Full Stack.  
+Atualmente estudando **React, TypeScript, Node.js, APIs REST e SQL**.
 
 ---
 
@@ -9,40 +9,64 @@ Atualmente estudando **SQL / MySQL**, **TypeScript** e **React**.
 
 ### 🔹 Front-End
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
 </p>
 
 **HTML • CSS • JavaScript • TypeScript • React**
 
 ---
 
-### 🔹 Ferramentas
+### 🔹 Back-End (em aprendizado)
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express" />
 </p>
 
-**Git • GitHub**
+**Node.js • Express • APIs REST**
 
 ---
 
 ### 🔹 Banco de Dados
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
 </p>
 
 **MySQL / SQL**
 
 ---
 
-## 📚 Estudando agora
-- TypeScript  
-- React (hooks, estado, componentes)   
-- SQL / MySQL  
+### 🔹 Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+</p>
+
+**Git • GitHub**
+
+---
+
+## 🌐 Caminho para Full Stack
+Atualmente ampliando meus conhecimentos em Back-End, com foco em:
+
+- Node.js  
+- Express  
+- Criação de APIs REST  
+- Integração Front-End + Back-End  
+- SQL e modelagem de banco de dados  
+
+Meu objetivo é unir **React + TypeScript** no front com **Node.js + SQL** no back-end.
+
+---
+
+## 🎯 Próximos passos
+- Autenticação (JWT)  
+- Deploy Full Stack (Vercel + Render / Railway)  
+- Boas práticas e arquitetura de APIs  
+- TypeScript aplicado ao back-end  
 
 ---
 
