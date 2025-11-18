@@ -1,43 +1,47 @@
 # 👋 Olá! Eu sou o Gleidson Lima
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado no **Front-End**.  
-Atualmente evoluindo minhas habilidades com **JavaScript**, **TypeScript** e **React**.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Front-End focado em criar interfaces funcionais, organizadas e responsivas.  
+Atualmente estudando **TypeScript**, **React** e **JavaScript avançado**.
 
 ---
 
-## 🧩 Tecnologias que utilizo
+## 🧩 Tecnologias e Ferramentas
 
-### 🔹 **Front-End**
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- TypeScript  
-- React  
+### 🔹 Linguagens & Front-End
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML5  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS3  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> TypeScript  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React  
+</p>
 
-### 🔹 **Ferramentas e Controle de Versão**
-- Git  
-- GitHub  
+### 🔹 Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git  
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub  
+</p>
 
-### 🔹 **Banco de Dados**
-- MySQL / SQL
+### 🔹 Banco de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL  
+</p>
 
-### 🔹 **Metodologias**
+### 🔹 Metodologias
 - Scrum (básico)
 
 ---
 
-## 📚 Aprendendo no momento
+## 📚 Estudando no momento
 - TypeScript  
 - React (componentização, hooks, estado, props)  
 - JavaScript avançado  
 - SQL / MySQL  
-
----
-
-## 📈 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidsonlimaf&layout=compact&theme=transparent)
-![Stats](https://github-readme-stats.vercel.app/api?username=Gleidsonlimaf&show_icons=true&theme=transparent)
 
 ---
 
