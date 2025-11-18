@@ -1,68 +1,47 @@
 # 👋 Olá! Eu sou o Gleidson Lima
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente foco meus estudos no desenvolvimento **Front-End**, criando interfaces funcionais, organizadas e responsivas.  
-Hoje estudo **JavaScript avançado, TypeScript e React**, desenvolvendo projetos para evoluir minhas habilidades técnicas.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado no **Front-End**.  
+Atualmente evoluindo minhas habilidades com **JavaScript**, **TypeScript** e **React**.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 🧩 Tecnologias que utilizo
 
-### **Principais**
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
-![JS](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
-![TS](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+### 🔹 **Front-End**
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- TypeScript  
+- React  
 
-### **Outros conhecimentos**
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
-![Scrum](https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance)
+### 🔹 **Ferramentas e Controle de Versão**
+- Git  
+- GitHub  
 
----
+### 🔹 **Banco de Dados**
+- MySQL / SQL
 
-## 📚 Estudando no momento
-- JavaScript avançado (DOM, arrays, funções, manipulação de eventos)
-- TypeScript
-- React (componentes, estado, props, hooks)
-- SQL / MySQL
+### 🔹 **Metodologias**
+- Scrum (básico)
 
 ---
 
-## 🚀 Projetos em Destaque
-
-### 🔹 **AlfaTech**  
-Site institucional moderno e responsivo.  
-**Tecnologias:** HTML, CSS e JavaScript  
-🔗 Deploy: https://alfa-tech.vercel.app  
-🔗 Repositório: https://github.com/Gleidsonlimaf/Website-Hospegadem
-
----
-
-### 🔹 **Pousada Secreta**  
-Página completa e responsiva para uma pousada fictícia.  
-**Tecnologias:** HTML e CSS  
-🔗 Repositório: *(adicione o link)*
-
----
-
-### 🔹 **Site PetShop**  
-Site simples e funcional para um petshop fictício.  
-**Tecnologias:** HTML, CSS  
-🔗 Repositório: *(adicione o link)*
+## 📚 Aprendendo no momento
+- TypeScript  
+- React (componentização, hooks, estado, props)  
+- JavaScript avançado  
+- SQL / MySQL  
 
 ---
 
 ## 📈 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidsonlimaf&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=Gleidsonlimaf&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidsonlimaf&layout=compact&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gleidsonlimaf&show_icons=true&theme=transparent)
 
 ---
 
 ## 📬 Contato
 
-📧 E-mail: **gleidsonlimalr@gmail.com**  
+📧 **gleidsonlimalr@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/gleidson-lima-7bb55b32a**
-
