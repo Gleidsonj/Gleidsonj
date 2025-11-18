@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Gleidson Lima
 
 Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em **Front-End**.  
-Atualmente estudando **JavaScript**, **TypeScript** e **React**.
+Atualmente estudando **SQL / MySQL**, **TypeScript** e **React**.
 
 ---
 
@@ -41,16 +41,8 @@ Atualmente estudando **JavaScript**, **TypeScript** e **React**.
 
 ## 📚 Estudando agora
 - TypeScript  
-- React (hooks, estado, componentes)  
-- JavaScript avançado  
+- React (hooks, estado, componentes)   
 - SQL / MySQL  
-
----
-
-## 📈 Estatísticas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidsonlimaf&layout=compact&theme=transparent)
-![Stats](https://github-readme-stats.vercel.app/api?username=Gleidsonlimaf&show_icons=true&theme=transparent)
 
 ---
 
