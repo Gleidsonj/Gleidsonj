@@ -1,24 +1,68 @@
-# 👋 Olá, eu sou Gleidson Lima!
+# 👋 Olá! Eu sou o Gleidson Lima
 
-🎓 Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas**, iniciando minha jornada no curso em setembro de 2024. Tenho 23 anos e sou apaixonado por tecnologia e desenvolvimento web.
-
-💻 Tenho experiência e conhecimento nas seguintes tecnologias:
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
-
-🌱 Atualmente, estou me aprofundando em **JavaScript** e estudando o **DOM** para criar aplicações web mais dinâmicas e interativas.
-
-📫 **Contato:** Se quiser me conhecer melhor ou colaborar em projetos, fique à vontade para me procurar!
-- **Email:** gleidsonlimacrf@gmail.com
-- **LinkedIn:** [Meu LinkedIn](https://www.linkedin.com/in/gleidsonsant/)
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente foco meus estudos no desenvolvimento **Front-End**, criando interfaces funcionais, organizadas e responsivas.  
+Hoje estudo **JavaScript avançado, TypeScript e React**, desenvolvendo projetos para evoluir minhas habilidades técnicas.
 
 ---
 
-🌟 "Esforço e persistência são os combustíveis do sucesso!" 🌟
+## 🔧 Tecnologias e Ferramentas
+
+### **Principais**
+![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)
+![TS](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+
+### **Outros conhecimentos**
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
+![Scrum](https://img.shields.io/badge/Scrum-0D1117?style=for-the-badge&logo=scrumalliance)
+
+---
+
+## 📚 Estudando no momento
+- JavaScript avançado (DOM, arrays, funções, manipulação de eventos)
+- TypeScript
+- React (componentes, estado, props, hooks)
+- SQL / MySQL
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🔹 **AlfaTech**  
+Site institucional moderno e responsivo.  
+**Tecnologias:** HTML, CSS e JavaScript  
+🔗 Deploy: https://alfa-tech.vercel.app  
+🔗 Repositório: https://github.com/Gleidsonlimaf/Website-Hospegadem
+
+---
+
+### 🔹 **Pousada Secreta**  
+Página completa e responsiva para uma pousada fictícia.  
+**Tecnologias:** HTML e CSS  
+🔗 Repositório: *(adicione o link)*
+
+---
+
+### 🔹 **Site PetShop**  
+Site simples e funcional para um petshop fictício.  
+**Tecnologias:** HTML, CSS  
+🔗 Repositório: *(adicione o link)*
+
+---
+
+## 📈 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidsonlimaf&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gleidsonlimaf&show_icons=true&theme=tokyonight)
+
+---
+
+## 📬 Contato
+
+📧 E-mail: **gleidsonlimalr@gmail.com**  
+🔗 LinkedIn: **https://www.linkedin.com/in/gleidson-lima-7bb55b32a**
+
