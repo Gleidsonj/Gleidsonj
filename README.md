@@ -1,47 +1,56 @@
 # 👋 Olá! Eu sou o Gleidson Lima
 
-Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Front-End focado em criar interfaces funcionais, organizadas e responsivas.  
-Atualmente estudando **TypeScript**, **React** e **JavaScript avançado**.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado em **Front-End**.  
+Atualmente estudando **JavaScript**, **TypeScript** e **React**.
 
 ---
 
 ## 🧩 Tecnologias e Ferramentas
 
-### 🔹 Linguagens & Front-End
+### 🔹 Front-End
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> HTML5  
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> CSS3  
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> JavaScript  
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/> TypeScript  
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/> React  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 </p>
 
-### 🔹 Ferramentas
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> Git  
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> GitHub  
-</p>
-
-### 🔹 Banco de Dados
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> MySQL  
-</p>
-
-### 🔹 Metodologias
-- Scrum (básico)
+**HTML • CSS • JavaScript • TypeScript • React**
 
 ---
 
-## 📚 Estudando no momento
+### 🔹 Ferramentas
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
+
+**Git • GitHub**
+
+---
+
+### 🔹 Banco de Dados
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</p>
+
+**MySQL / SQL**
+
+---
+
+## 📚 Estudando agora
 - TypeScript  
-- React (componentização, hooks, estado, props)  
+- React (hooks, estado, componentes)  
 - JavaScript avançado  
 - SQL / MySQL  
+
+---
+
+## 📈 Estatísticas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleidsonlimaf&layout=compact&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gleidsonlimaf&show_icons=true&theme=transparent)
 
 ---
 
