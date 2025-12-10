@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Gleidson Lima
 
-Front-End Developer em evolução para Full Stack.  
+Full Stack Developer.  
 Atualmente estudando **React, TypeScript, Node.js, APIs REST e SQL**.
 
 ---
