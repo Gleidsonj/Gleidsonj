@@ -4,19 +4,23 @@ Full Stack Developer
 Atualmente focado em evoluir no desenvolvimento full stack, estudando React, TypeScript, Node.js, APIs REST e SQL.  
 Gosto de aprender criando projetos práticos, integrando front-end, back-end e banco de dados.
 
+---
+
 🧩 Tecnologias e Ferramentas
 
 🔹 Front-End  
-HTML • CSS • JavaScript • TypeScript • React
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 
 🔹 Back-End (em desenvolvimento)  
-Node.js • Express • APIs REST
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 🔹 Banco de Dados  
-MySQL • SQL
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 🔹 Ferramentas  
-Git • GitHub
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+---
 
 🌐 Caminho para Full Stack
 
@@ -30,6 +34,8 @@ Atualmente ampliando meus conhecimentos em Back-End, com foco em:
 
 Meu objetivo é unir React + TypeScript no front-end com Node.js + SQL no back-end.
 
+---
+
 🎯 Próximos passos
 
 - Autenticação (JWT)  
@@ -37,6 +43,9 @@ Meu objetivo é unir React + TypeScript no front-end com Node.js + SQL no back-e
 - Boas práticas e arquitetura de APIs  
 - TypeScript aplicado ao back-end  
 
+---
+
 📬 Contato  
+
 📧 gleidsonlimacrf@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/gleidsonsant/
